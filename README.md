@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Sou o Jonathan Carvalho 👋
 
-<!--
-**JonathanCarvalho39/JonathanCarvalho39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤓 Estou Cursando: ADS - Análise e Desenvolvimento de Sistemas
+- 🏫 Faculdade: São Paulo Tech School - SPTECH
+- 🌱 Estudando: Java • Fundamentos • Estrutura de Dados • Orientação Objeto • Spring Boot
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JonathanCarvalho39&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)
+
+
+
+<div>
+  <a href = "mailto:jonathanaparecido80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" tatget = "_blank"></a>
+    <a href = "www.linkedin.com/in/jonathan-carvalho-697bb921b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" tatget = "_blank"></a>
+</div>
