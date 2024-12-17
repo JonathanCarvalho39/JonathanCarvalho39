@@ -3,7 +3,7 @@
 
 - 🤓 Estou Cursando: ADS - Análise e Desenvolvimento de Sistemas
 - 🏫 Faculdade: São Paulo Tech School - SPTECH
-- 🌱 Estudando: Java • Fundamentos • Estrutura de Dados • Orientação Objeto • Spring Boot
+- 🌱 Estudando: Java • Fundamentos • Estrutura de Dados • Orientação Objeto • Spring Boot • AWS
 
 <div display="flex" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,9 +14,6 @@
 </a>
 </div>
 
-
-
-
 <div align="center"><br>
   <a href = "mailto:jonathanaparecido80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/jonathan-carvalho-697bb921b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -25,12 +22,4 @@
   <a href = "mailto:jonathan.carvalho@sptech.school"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  
 <a href ="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanCarvalho39/JonathanCarvalho39/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonathanCarvalho39/JonathanCarvalho39/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JonathanCarvalho39/JonathanCarvalho39/output/github-contribution-grid-snake.svg">
-</picture>
 
